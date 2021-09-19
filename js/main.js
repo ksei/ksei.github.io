@@ -69,7 +69,7 @@ var files = (function () {
     Singleton.defaultOptions = {
         "getting_Started.txt": "First, go to js/main.js and replace all the text on both singleton vars.\n- configs: All the text used on the website.\n- files: All the fake files used on the website. These files are also used to be listed on the sidenav.\nAlso please notice if a file content is a raw URL, when clicked/concatenated it will be opened on a new tab.\nDon't forget also to:\n- Change the page title on the index.html file\n- Change the website color on the css/main.css\n- Change the images located at the img folder. The suggested sizes are 150x150 for the avatar and 32x32/16x16 for the favicon.",
         "contact.txt": " Personal Mail \n ----------------------------------------- \n ksandrosapostoli@hotmail.com \n \n School Mail: \n ----------------------------------------- \n kapostoli@ethz.ch, ksandros.apostoli@epfl.ch",
-        "Curriculum_Vitae.txt": "https://./CV_KAP.pdf",
+        "Curriculum_Vitae.txt": "https://raw.githubusercontent.com/ksei/ksei.github.io/master/CV_KAP.pdf",
         "LinkedIn.txt": "https://ch.linkedin.com/in/kapostoli",
         "twitter.txt": "https://twitter.com/ksei__  ",
         "about_This_Shell.txt": "While I added my own features to it, I am not the creator of this terminal, but...\nThis website was made using only pure JavaScript with no extra libraries.\n If you like it, make sure to give your kudos to: luisbraganca@protonmail.com. \n If you want to use it, you can find it available on GitHub. \n If you manage to find any bugs or security issues please use the same email as above. "
